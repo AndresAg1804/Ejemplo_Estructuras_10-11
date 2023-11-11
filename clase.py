@@ -8,4 +8,4 @@ print("Numero aleatorio: {}".format(generar_random(1, 100)))
 d = dict()
 
 d["cervecita"] = "Imperial"
-d["campeon"] = "Saprissa"
+d["campeon"] = "LDA"
